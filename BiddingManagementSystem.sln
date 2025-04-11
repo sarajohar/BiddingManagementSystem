@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiddingManagementSystem", "BiddingManagementSystem\BiddingManagementSystem.csproj", "{AD51DCB5-0017-4640-B423-4348BA13D02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD51DCB5-0017-4640-B423-4348BA13D02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD51DCB5-0017-4640-B423-4348BA13D02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD51DCB5-0017-4640-B423-4348BA13D02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD51DCB5-0017-4640-B423-4348BA13D02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7104532C-0F09-4EC6-8540-1128F23D2B86}
+	EndGlobalSection
+EndGlobal
